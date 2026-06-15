@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+numpy
+pandas
+scikit-learn
+joblib
+nbconvert
+=======
+numpy
+pandas
+scikit-learn
+joblib
+nbconvert
+>>>>>>> 63bc211 (Fix)
+ipykernel
