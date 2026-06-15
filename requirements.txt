@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 numpy
 pandas
 scikit-learn
 joblib
+jupyter
 nbconvert
-=======
-numpy
-pandas
-scikit-learn
-joblib
-nbconvert
->>>>>>> 63bc211 (Fix)
 ipykernel
